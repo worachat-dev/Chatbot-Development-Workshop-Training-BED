@@ -1,6 +1,3 @@
-Sure, here's a `README.md` for the chatbot project:
-
-```markdown
 # Chatbot Development Workshop
 
 ## Building a Simple Chatbot from Scratch in Python (using NLTK)
@@ -72,6 +69,3 @@ We create a `Chat` object with the defined pairs and reflections and start the c
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-Feel free to customize this `README.md` further based on your specific requirements or additional features of your chatbot.
